@@ -14,6 +14,7 @@ export default function Home() {
           priority
         />
         <ol>
+          <h1>Hi This is Next js </h1>
           <li>
             Get started by editing <code>src/app/page.js</code>.
           </li>
